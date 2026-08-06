@@ -32,7 +32,7 @@ Je construis des applications web et mobile qui essayent d’être utiles (et jo
 const skills = {
   frontend: ["React", "Next.js", "HTML", "CSS", "JavaScript"],
   backend: ["Node.js", "Express", "Django", "Laravel"],
-  mobile: ["React Native, flutter"],
+  mobile: ["React Native", "flutter"],
   database: ["MySQL", "PostgreSQL", "MariaDB"],
-  tools: ["Git", "GitHub", "Figma", Jenkins]
+  tools: ["Git", "GitHub", "Figma", "Jenkins"]
 }
