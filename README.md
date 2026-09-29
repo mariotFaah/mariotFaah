@@ -26,7 +26,7 @@
 ##  What I'm up to right now
 
 - Learning Python for data science: cleaning data, exploring it, and building my first models
-- Training models that are sometimes brilliant and sometimes hilariously wrong 😅
+- Training models that are sometimes brilliant and sometimes hilariously wrong 
 - Working on my first data science projects (coming soon to this profile!)
 
 ##  Toolbox
